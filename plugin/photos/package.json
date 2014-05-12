@@ -1,0 +1,9 @@
+{
+    "name": "photos",
+    "version": "0.0.0",
+    "main": "photos.js",
+    "private": true,
+    "plugin": {
+      "provides": ["photos"]
+    }
+}

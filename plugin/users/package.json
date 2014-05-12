@@ -1,0 +1,10 @@
+{
+    "name": "users",
+    "version": "0.0.0",
+    "main": "users.js",
+    "private": true,
+    "plugin": {
+      "path": "/users",
+      "consumes": ["server", "photos"]
+    }
+}

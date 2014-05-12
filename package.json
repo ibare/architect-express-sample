@@ -1,0 +1,16 @@
+{
+  "name": "architect-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "architect": "^0.1.11",
+    "colors": "^0.6.2",
+    "express": "^4.2.0"
+  }
+}
